@@ -1,4 +1,4 @@
 # react-native-universal
 A basic scaffold for react-native application (target iOS 7.0, universal app).
-It autodetects device and orientation based on 
+It auto detects device and orientation based on
 https://www.npmjs.com/package/react-native-device-display

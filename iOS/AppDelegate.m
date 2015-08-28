@@ -8,8 +8,8 @@
  */
 
 #import "AppDelegate.h"
-
 #import "RCTRootView.h"
+#import "DisplayDeviceUtil.h"
 
 @implementation AppDelegate
 
